@@ -1,4 +1,4 @@
-# ApiClientColter
+# Api Client: A C# and .NET Exercise Using APIs
 In this project, you will practice accessing an API. You'll see how an API request is made from code, and see how data is returned from an API.
 
 ## Objectives
